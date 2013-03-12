@@ -1,4 +1,0 @@
-e
-=
-
-dop_repository
